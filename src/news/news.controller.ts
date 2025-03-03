@@ -10,6 +10,7 @@ import {
 import { NewsService } from "./news.service";
 import { CreateNewsDto } from "./dto/create-news.dto";
 import { PaginationDto } from "./dto/pagination.dto";
+import { StatisticsResponseDto } from "./dto/statistics-response.dto";
 
 @Controller("news")
 export class NewsController {
@@ -43,7 +44,18 @@ export class NewsController {
     @Param("ticker") ticker: string,
     @Query("startDate") startDate: string,
     @Query("endDate") endDate: string
-  ) {
-    return this.newsService.getNewsStatistics(ticker, startDate, endDate);
+  ): Promise<StatisticsResponseDto> {
+    const statistics = await this.newsService.getNewsStatistics(
+      ticker,
+      startDate,
+      endDate
+    );
+
+    return {
+      ticker,
+      startDate,
+      endDate,
+      statistics,
+    };
   }
 }
