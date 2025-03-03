@@ -1,7 +1,7 @@
 export class DailyStatistics {
   date: string;
-  newsCount: number;
   ratio: number;
+  newsCount: number;
   averageSentiment: number;
 }
 

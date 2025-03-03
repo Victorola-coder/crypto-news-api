@@ -11,7 +11,7 @@ export class NewsScheduler {
 
   constructor(private readonly newsService: NewsService) {}
 
-  @Cron(CronExpression.EVERY_MINUTE) // More frequent for demo purposes
+  @Cron(CronExpression.EVERY_MINUTE) // more frequent for demo purposes
   async handleCron() {
     try {
       const mockNewsData = JSON.parse(

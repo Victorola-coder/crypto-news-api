@@ -8,8 +8,8 @@ import {
   Query,
 } from "@nestjs/common";
 import { NewsService } from "./news.service";
-import { CreateNewsDto } from "./dto/create-news.dto";
 import { PaginationDto } from "./dto/pagination.dto";
+import { CreateNewsDto } from "./dto/create-news.dto";
 import { StatisticsResponseDto } from "./dto/statistics-response.dto";
 
 @Controller("news")
