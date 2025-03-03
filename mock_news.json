@@ -1,0 +1,272 @@
+[
+  {
+    "title": "Биткоин преодолевает отметку $30,000",
+    "description": "На фоне роста институциональных инвестиций стоимость Биткоина поднялась выше $30,000, что свидетельствует о продолжающемся доверии к цифровому активу.",
+    "date": 1672531200,
+    "platform": "CoinDesk",
+    "author": "CryptoAnalyst",
+    "ticker": "BTC",
+    "sentiment": 1
+  },
+  {
+    "title": "Эфириум обновляется: переход на PoS завершен",
+    "description": "Сеть Ethereum успешно завершила переход на механизм Proof-of-Stake, снизив энергозатраты и открыв новые возможности для масштабирования.",
+    "date": 1672534800,
+    "platform": "CryptoNews",
+    "author": "EthereumExpert",
+    "ticker": "ETH",
+    "sentiment": 1
+  },
+  {
+    "title": "Ripple сталкивается с новыми регуляторными вызовами",
+    "description": "В компании Ripple ожидаются новые судебные разбирательства по обвинениям в нарушении законодательства о ценных бумагах, что негативно сказалось на цене XRP.",
+    "date": 1672538400,
+    "platform": "Bloomberg Crypto",
+    "author": "LegalWatch",
+    "ticker": "XRP",
+    "sentiment": -1
+  },
+  {
+    "title": "Litecoin демонстрирует стабильность на фоне волатильного рынка",
+    "description": "Несмотря на общерыночную нестабильность, Litecoin показывает умеренный рост и остается привлекательным для долгосрочных инвесторов.",
+    "date": 1672542000,
+    "platform": "CryptoDaily",
+    "author": "MarketObserver",
+    "ticker": "LTC",
+    "sentiment": 0
+  },
+  {
+    "title": "Cardano запускает новые функциональные возможности для смарт-контрактов",
+    "description": "Сеть Cardano анонсировала обновление, направленное на улучшение производительности и безопасности смарт-контрактов, что может привлечь новых разработчиков.",
+    "date": 1672545600,
+    "platform": "CoinTelegraph",
+    "author": "BlockChainInsider",
+    "ticker": "ADA",
+    "sentiment": 1
+  },
+  {
+    "title": "Dogecoin поднимается после поддержки известных личностей",
+    "description": "После публичных высказываний влиятельных инвесторов и инфлюенсеров, Dogecoin продемонстрировал резкий рост цены.",
+    "date": 1672549200,
+    "platform": "CoinDesk",
+    "author": "DogecoinFan",
+    "ticker": "DOGE",
+    "sentiment": 1
+  },
+  {
+    "title": "Solana испытывает задержки из-за перегрузки сети",
+    "description": "Из-за резкого увеличения транзакционной активности пользователи сети Solana столкнулись с временными задержками в обработке транзакций.",
+    "date": 1672552800,
+    "platform": "CryptoNews",
+    "author": "TechMonitor",
+    "ticker": "SOL",
+    "sentiment": 0
+  },
+  {
+    "title": "Polkadot расширяет партнерские связи в Азии",
+    "description": "Polkadot объявила о новом стратегическом партнерстве с ведущими финансовыми институтами Азии, что может способствовать дальнейшему развитию экосистемы.",
+    "date": 1672556400,
+    "platform": "Bloomberg Crypto",
+    "author": "AsiaCrypto",
+    "ticker": "DOT",
+    "sentiment": 1
+  },
+  {
+    "title": "Binance Coin растет на фоне обновлений платформы",
+    "description": "Binance Coin укрепил свои позиции после выпуска ряда обновлений, направленных на улучшение функционала и пользовательского опыта на платформе Binance.",
+    "date": 1672560000,
+    "platform": "CryptoDaily",
+    "author": "BinanceWatcher",
+    "ticker": "BNB",
+    "sentiment": 1
+  },
+  {
+    "title": "Tether вызывает вопросы у регуляторов",
+    "description": "Регуляторы усилили проверки деятельности Tether, что вызывает обеспокоенность инвесторов по поводу стабильности стейблкойна USDT.",
+    "date": 1672563600,
+    "platform": "CoinTelegraph",
+    "author": "RegulationAlert",
+    "ticker": "USDT",
+    "sentiment": -1
+  },
+  {
+    "title": "Bitcoin Hits New All-Time High",
+    "description": "Bitcoin surged past previous records, setting a new all-time high as institutional investments continue to pour in.",
+    "date": 1672567200,
+    "platform": "CoinDesk",
+    "author": "CryptoAnalyst",
+    "ticker": "BTC",
+    "sentiment": 1
+  },
+  {
+    "title": "Эфириум снижает комиссионные сборы",
+    "description": "С обновлением протокола комиссия в сети Ethereum снизилась, что позитивно сказалось на активности пользователей.",
+    "date": 1672570800,
+    "platform": "CryptoNews",
+    "author": "EthereumGuru",
+    "ticker": "ETH",
+    "sentiment": 1
+  },
+  {
+    "title": "Dogecoin Partners with Popular Retail Brand",
+    "description": "Dogecoin made headlines by partnering with a well-known retail brand, aiming to increase its adoption in everyday transactions.",
+    "date": 1672574400,
+    "platform": "Bloomberg Crypto",
+    "author": "MarketObserver",
+    "ticker": "DOGE",
+    "sentiment": 1
+  },
+  {
+    "title": "Cardano обновляет протокол консенсуса",
+    "description": "В сети Cardano запланировано обновление протокола, которое должно повысить безопасность и эффективность обработки транзакций.",
+    "date": 1672578000,
+    "platform": "CryptoDaily",
+    "author": "BlockChainInsider",
+    "ticker": "ADA",
+    "sentiment": 1
+  },
+  {
+    "title": "Ripple Announces New Cross-Border Payment Solution",
+    "description": "Ripple has unveiled its latest solution for cross-border payments, aiming to streamline international transactions.",
+    "date": 1672581600,
+    "platform": "CoinTelegraph",
+    "author": "LegalWatch",
+    "ticker": "XRP",
+    "sentiment": 1
+  },
+  {
+    "title": "Binance Coin интегрирует новые функции",
+    "description": "Обновление Binance Coin позволит пользователям получать дополнительные бонусы за активное использование платформы.",
+    "date": 1672585200,
+    "platform": "CoinDesk",
+    "author": "TechMonitor",
+    "ticker": "BNB",
+    "sentiment": 1
+  },
+  {
+    "title": "Solana Network Faces Unexpected Downtime",
+    "description": "The Solana blockchain experienced unexpected downtime today, causing concerns among developers and investors.",
+    "date": 1672588800,
+    "platform": "CryptoNews",
+    "author": "Alice",
+    "ticker": "SOL",
+    "sentiment": 0
+  },
+  {
+    "title": "Polkadot расширяет сотрудничество с европейскими банками",
+    "description": "Polkadot анонсировала новое партнёрство с крупными европейскими финансовыми институтами, что может стимулировать развитие экосистемы.",
+    "date": 1672592400,
+    "platform": "Bloomberg Crypto",
+    "author": "TraderJoe",
+    "ticker": "DOT",
+    "sentiment": 1
+  },
+  {
+    "title": "Tether Stability Questioned Amid Market Turmoil",
+    "description": "Questions over Tether's reserve transparency have resurfaced as market volatility increases, impacting investor confidence.",
+    "date": 1672596000,
+    "platform": "CryptoDaily",
+    "author": "MarketGuru",
+    "ticker": "USDT",
+    "sentiment": -1
+  },
+  {
+    "title": "Litecoin демонстрирует устойчивость в условиях волатильности",
+    "description": "Несмотря на рыночные колебания, Litecoin показывает стабильные показатели, что привлекает долгосрочных инвесторов.",
+    "date": 1672599600,
+    "platform": "CoinTelegraph",
+    "author": "Иван Петров",
+    "ticker": "LTC",
+    "sentiment": 1
+  },
+  {
+    "title": "Ethereum Gas Fees Plummet Amid Network Upgrade",
+    "description": "Following the recent network upgrade, Ethereum gas fees have significantly decreased, attracting more decentralized application developers.",
+    "date": 1672603200,
+    "platform": "CryptoNews",
+    "author": "EthereumGuru",
+    "ticker": "ETH",
+    "sentiment": 1
+  },
+  {
+    "title": "Ripple достигли соглашения с регуляторами",
+    "description": "После длительных переговоров Ripple объявили о заключении соглашения с регуляторами, что может стабилизировать курс XRP.",
+    "date": 1672606800,
+    "platform": "Bloomberg Crypto",
+    "author": "LegalWatch",
+    "ticker": "XRP",
+    "sentiment": 1
+  },
+  {
+    "title": "Dogecoin faces regulatory scrutiny",
+    "description": "Recent comments by government officials have put Dogecoin under the spotlight, triggering an investigation into its market practices.",
+    "date": 1672610400,
+    "platform": "CoinTelegraph",
+    "author": "CryptoAnalyst",
+    "ticker": "DOGE",
+    "sentiment": -1
+  },
+  {
+    "title": "Планируется обновление Litecoin",
+    "description": "Разработчики Litecoin анонсировали предстоящие обновления, направленные на улучшение масштабируемости сети.",
+    "date": 1672614000,
+    "platform": "CryptoDaily",
+    "author": "LTC_Master",
+    "ticker": "LTC",
+    "sentiment": 1
+  },
+  {
+    "title": "Cardano заключает партнерство с финтех-стартапом",
+    "description": "Cardano расширяет экосистему, подписав стратегическое соглашение с перспективным финтех-стартапом, специализирующимся на DeFi решениях.",
+    "date": 1672617600,
+    "platform": "CoinDesk",
+    "author": "BlockChainInsider",
+    "ticker": "ADA",
+    "sentiment": 1
+  },
+  {
+    "title": "Bitcoin Transaction Volume Soars",
+    "description": "An unprecedented surge in Bitcoin transactions has been recorded, indicating growing adoption among retail investors.",
+    "date": 1672621200,
+    "platform": "CryptoNews",
+    "author": "MarketObserver",
+    "ticker": "BTC",
+    "sentiment": 1
+  },
+  {
+    "title": "Polkadot launches new smart contract module",
+    "description": "Polkadot has introduced a new smart contract module designed to support more versatile decentralized applications, sparking investor optimism.",
+    "date": 1672624800,
+    "platform": "Bloomberg Crypto",
+    "author": "TechMonitor",
+    "ticker": "DOT",
+    "sentiment": 1
+  },
+  {
+    "title": "Binance Coin объявляет программу выкупа токенов",
+    "description": "Платформа Binance объявила о программе выкупа BNB, что должно повысить стоимость токена за счет уменьшения его циркуляции.",
+    "date": 1672628400,
+    "platform": "CoinTelegraph",
+    "author": "BinanceWatcher",
+    "ticker": "BNB",
+    "sentiment": 1
+  },
+  {
+    "title": "Solana Network Releases Security Patch",
+    "description": "A critical security patch has been released for the Solana network after vulnerabilities were detected, aiming to ensure platform stability.",
+    "date": 1672632000,
+    "platform": "CryptoDaily",
+    "author": "Alice",
+    "ticker": "SOL",
+    "sentiment": 0
+  },
+  {
+    "title": "Tether подтверждает полное покрытие резервов",
+    "description": "Tether опубликовал обновленную информацию о резервах, подтвердив полное обеспечение каждого токена USDT, что должно укрепить доверие инвесторов.",
+    "date": 1672635600,
+    "platform": "CoinDesk",
+    "author": "MarketGuru",
+    "ticker": "USDT",
+    "sentiment": 1
+  }
+]
