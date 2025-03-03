@@ -1,6 +1,6 @@
-import { Injectable } from '@nestjs/common';
-import { PrismaService } from '../prisma/prisma.service';
-import { CreateNewsDto } from './dto/create-news.dto';
+import { Injectable } from "@nestjs/common";
+import { PrismaService } from "../prisma/prisma.service";
+import { CreateNewsDto } from "./dto/create-news.dto";
 
 @Injectable()
 export class NewsService {
@@ -20,8 +20,7 @@ export class NewsService {
     return this.prisma.news.findMany({
       where: {
         ticker: {
-          equals: ticker,
-          mode: 'insensitive',
+          equals: ticker.toUpperCase(),
         },
       },
     });
@@ -34,4 +33,4 @@ export class NewsService {
       },
     });
   }
-} 
+}
