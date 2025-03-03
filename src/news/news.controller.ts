@@ -5,9 +5,11 @@ import {
   Body,
   Param,
   ParseIntPipe,
+  Query,
 } from "@nestjs/common";
 import { NewsService } from "./news.service";
 import { CreateNewsDto } from "./dto/create-news.dto";
+import { PaginationDto } from "./dto/pagination.dto";
 
 @Controller("news")
 export class NewsController {
@@ -19,8 +21,11 @@ export class NewsController {
   }
 
   @Get()
-  async findAll() {
-    return this.newsService.findAll();
+  async findAll(@Query() paginationDto: PaginationDto) {
+    return this.newsService.findAllPaginated(
+      paginationDto.page,
+      paginationDto.limit
+    );
   }
 
   @Get("ticker/:ticker")
@@ -31,5 +36,14 @@ export class NewsController {
   @Get("sentiment/:sentiment")
   async findBySentiment(@Param("sentiment", ParseIntPipe) sentiment: number) {
     return this.newsService.findBySentiment(sentiment);
+  }
+
+  @Get("statistics/:ticker")
+  async getStatistics(
+    @Param("ticker") ticker: string,
+    @Query("startDate") startDate: string,
+    @Query("endDate") endDate: string
+  ) {
+    return this.newsService.getNewsStatistics(ticker, startDate, endDate);
   }
 }
